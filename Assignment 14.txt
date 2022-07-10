@@ -1,0 +1,11 @@
+1) RGBA(Red-Green-Blue-Alpha)
+2) import the Image module from the Pillow library from PIL import Image.
+Open any image and get the RAGBAG values. img = Image.open('image.png') rgba = img.convert(“RGBA”) ...
+Change the color. Data will be an Imaging Core object containing thousands of tuples of RGBA values. ...
+Store the changed image.
+3) Many of Pillow's functions and methods take a box tuple argument. This means Pillow is expecting a tuple of four integer coordinates that represent a rectangular region in an image
+4) Click the Windows Start button on your taskbar.
+Type "Windows Explorer" or "File Explorer" into the search bar.
+Open Windows Explorer.
+Find the image you want to check.
+Select your image. The dimensions and file size appear at the bottom of the window.
